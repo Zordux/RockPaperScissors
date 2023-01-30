@@ -1,2 +1,2 @@
 # RockPaperScissors
-Its rock paper scissors in java
+I made a simple rock paper scissors game in java
